@@ -18,4 +18,4 @@
 import { onHeaderFormSubmit } from "./js/handler";
 import { refs } from "./js/refs";
 
-refs.headerForm.addEventListener('submit', onHeaderFormSubmit)
+refs.headerForm.addEventListener('submit', onHeaderFormSubmit);
